@@ -4,4 +4,4 @@ Excel simplifies data visualization, enabling users to create clear and impactfu
 
 While it may not boast the advanced capabilities of cutting-edge visualization platforms like Power BI or Tableau, this Excel-based dashboard has been meticulously crafted to deliver commendable results. Hereby is the figure of the dashboard:
 
-![plot](https://github.com/razeeniqbal/excel-bikes-sales/blob/main/bikes_sales_dashboard.PNG)
+![plot](https://github.com/razeeniqbal/excel-coffee-sales/blob/main/coffeeOrdersData.png)
