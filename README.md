@@ -4,7 +4,9 @@
 *Scope of the Project*
 
 
-The project aims to create an effective data visualization tool using Microsoft Excel. The primary objective is to transform raw data into clear and impactful visual representations, such as charts and graphs, which facilitate quick insights and decision-making. Key tasks include:
+The project aims to create an effective data visualization tool using Microsoft Excel. The primary objective is to transform raw data into clear and impactful visual representations, such as charts and graphs, which facilitate quick insights and decision-making. 
+
+Key tasks include:
 
 - Creating a user-friendly dashboard within Excel.
 - Using Excel’s built-in features to generate various types of charts and graphs.
