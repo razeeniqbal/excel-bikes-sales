@@ -48,6 +48,7 @@ Process and Methodology:
 - Provide training or a user guide to help users understand and navigate the dashboard effectively.
 
 You can refer the full excel dashboard here [(see Excel file)](https://github.com/razeeniqbal/excel-bikes-sales/blob/main/bikes_sales_dashboard.xlsx). 
+
 *End Result / Conclusion*
 
 
